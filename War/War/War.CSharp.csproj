@@ -78,6 +78,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Map\CameraTwister.cs" />
     <Compile Include="Assets\Scripts\Map\Generation.cs" />
     <Compile Include="Assets\Scripts\Map\TileBehaviours.cs" />
   </ItemGroup>
